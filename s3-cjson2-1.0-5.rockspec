@@ -1,11 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "s3-cjson2"
-version = "1.0-4"
+version = "1.0-5"
 
 -- LuaDist source
 source = {
-  tag = "1.0-4",
+  tag = "1.0-5",
   url = "git://github.com/LuaDist-testing/s3-cjson2.git"
 }
 -- Original source
